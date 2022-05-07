@@ -1,7 +1,7 @@
 # Readme
 
 This file is the introduction on what this project is and how to contribute.  
-The actual contents are [here]{https://github.com/ProjectDimlight/SOL-s-Verilog-Cheatsheet-for-Not-So-Beginners/blob/main/Cheatsheet.md}.
+The actual contents are [here](https://github.com/ProjectDimlight/SOL-s-Verilog-Cheatsheet-for-Not-So-Beginners/blob/main/Cheatsheet.md).
 
 ### What this project is
 
