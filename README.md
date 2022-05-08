@@ -12,6 +12,6 @@ So, we may write this document as a guide for beginners to know "how the structu
 
 Just submit issues or PRs. Please mark your commits as:
 
-[Add] add new samples that might help.
-[Detail] give further description of an existing circuit.
-[Fix] fix bugs of current document.
+- [Add] add new samples that might help.
+- [Detail] give further description of an existing circuit.
+- [Fix] fix bugs of current document.
