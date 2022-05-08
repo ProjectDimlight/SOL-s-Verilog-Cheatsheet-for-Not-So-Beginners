@@ -4,7 +4,7 @@
 - Different views of verilog:
   - Behavioral
     - Describe how data flows/changes
-    - Probably not be synthesizable
+    - Probably not synthesizable
     - Cannot help beginners understand the real composition of circuits
     - Can be optimized by synthesizer
     - Use it only when you are sure what you are constructing (or building simulation test bench)
