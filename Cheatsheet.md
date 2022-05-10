@@ -30,6 +30,25 @@
     assign a = b;
     ```
 
+- Register connection:
+
+  - Behavioral:
+
+    ```verilog
+    reg a;
+    always @ (posedge clk) begin
+        a <= b;
+    end
+    ```
+
+  - Structural:
+
+    ```verilog
+    wire a;
+    DFlipFlop dff(clk, a, b);
+    ```
+  - For the implementation of DFF please refer to your digital logic design textbook. In verilog, you need not (also should not) implement latches yourself.
+
 - Multiplexer:
 
   - Behavioral:
